@@ -5,19 +5,29 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+**Softare engieering is the process of developing, testing, and deploying computer applications to solve real-world problems. It plays a vital role in the tech industry such as ensuring softwares are reliable, effcient, and scalable to meet user needs, as well as the market demands.**
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+**The Agile Methodology**: This methodology contrasts the modern methodlogy called watterfall. The agile methodology affers various benefits such as collaboration, flexibility, and iterative development.
+**The rise of Continous Integretion (CI) and Continous Deployment (CD)**: CI ensures that multiple developers work is regularly combined and tested automatically for any issue. Whereas,CD allows developers to release new features or bug fies to users quickly and frequently ensuring a smoother and more efficient deployment process
+**The integration of AI into Software engineering**: AI has integrated further into the Software engineering field to a point that you can build anything-apps, wedsites- without coding just by using AI tools. It can execute a lot of tasks for developers such as debugging, testing, automate coding, etc. It has made things easier for developers. 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+**Planning**: Decide which project you are going to be working on thoughout a particular period of time-Timeframe. 
+**Research**: Who are your users. Conduct a lot of research on your users/stakeholders to understand the challenges they are facing so you can accurately address the problem they are facing.
+**Coding**: Start crafting your solution through coding by using programming languagesand development tools. The faster the better. At this point, your solution does not need to be perfect.
+**Testing**: Fixe bugs, make sure everything functions.
+**Implimentation/Deployment**: Launch your prototype and get feedback from your users/stakeholders to better understand if the solution suits them or not. If not, then consider the feedback and enhance your solution.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+The Agile team and the traditional team have different approaches to software development. The agile team is more collaborative, flexible, and self-organizing, while the traditional team is more structured, hierarchical, and process-driven. The agile team is better equipped to respond to changing requirements and deliver high-quality software in a fast-paced environment, while the traditional team may struggle to adapt to changing conditions and may be slower to deliver software. 
+For example, Let’s imagine an agile development team working on a software development project. The team is made up of a front-end developer, two back-end developers, a tester, a product manager, and a scrum master. They work in short, time-boxed iterations called sprints, meeting that usually lasts one or two weeks. At the beginning of each sprint, the team holds a sprint planning meeting to define the work to be done and estimate the effort required, which usually refers to the time it would take to complete the task. During the sprint, the team works collaboratively to complete the work, holding daily stand-up meetings to keep everyone informed and identify any obstacles that need to be addressed. At the end of the sprint, the team holds a sprint review or retrospective to reflect on their progress and identify areas for improvement. The team is self-organizing, meaning they manage their own work and make decisions about how to accomplish their goals.
+Now, let’s imagine a traditional development team working on the same software project. The team is composed of front-end and back-end developers, testers, a project manager, and a business analyst. The team follows a sequential, waterfall approach to software development, with a clear division of labour between team members. The project manager is responsible for defining the scope and requirements of the project, and the business analyst is responsible for documenting those requirements. The developers and testers work separately to complete their assigned tasks. The project manager monitors the progress of the project and reports to higher-ups on a regular basis. Team members receive direction and oversight from the project manager and are expected to follow a defined process for completing their work.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+Software Developer: This one is responsible for testing, writing, and maintaining based on project requirements.
+A Quality Assurance Engineer: This one is responsible for identifying bugs, verifying functionality, designing and executing text cases.
+A Project Manager: This one oversees the whole project while making sure that tasks are completed in time and within budget.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
