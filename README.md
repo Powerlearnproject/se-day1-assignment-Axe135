@@ -30,18 +30,25 @@ A Quality Assurance Engineer: This one is responsible for identifying bugs, veri
 A Project Manager: This one oversees the whole project while making sure that tasks are completed in time and within budget.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+IDEs provide a set of tools for coding, debugging, and testing, improving developer productivity and efficiency. But also, they offer features like syntax highlighting, code auto-completion, debugging tools, and built-in compilers. Example: Visual Studio Code, Eclipse, etc.
+VCS helps in tracking and managing code changes, helping multple developers to collaborate smoothly and ensure code integrity. Example: GitHub, GitLab, etc.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+The first one is debugging and troubleshooting. One approach to tackle this is to use debugging tools.
+The second challenge is keeping up with this tech evolving world. The tech field is evolving on a regular and it is a bit hard for engineers to keep up with tools, and languages. To tackle this hardship, engineers must be up-to-date with new products, tools that are being luanched on a regular by following tech resources, like tech newsletters. This will help them to stay in the know and adjust accordingly.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Unit Testing: It tests individual components or functions to ensure they work as expected in isolation. The imporrtance of this is to detect errors early, and improve code reliability.
+Integration Testing: it checks how different modules or services interact when combined. The importance os this is to ensure seamless communication between system components.
+System Testing: It evaluates the entire system’s functionality, performance, and security. It has as importance to verify that the complete software meets requirements and runs in the intended environment.
+Acceptance Testing: It assesses whether the software meets user requirements and is ready for deployment. It nsures user satisfaction and business alignment before release.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+It is a set of effective and precise instructions to optimize interactions with AI models. It helps us structure prompts in a way that guides the AI to generate accurate, relevant, and useful information.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt: Tell me about AI
+Clear Prompt: In 10 sentences explain how artificial intelligence is transforming the world, provide 2 examples in which you will showcase how AI is revolutionizing the world in healthcare. 
